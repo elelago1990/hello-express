@@ -6,3 +6,8 @@ body {
 a {
   color: rgb(185, 7, 255);
 }
+
+img.product-photo{
+
+  width: 50%;
+}
